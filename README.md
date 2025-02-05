@@ -3,6 +3,7 @@
 Korea Institute of Geoscience and Mineral Resources (KIGAM)  
 
 📧 Email: kersti/kigam/re/kr (replace `/` with `.`)  
+
 [Google Scholar](https://scholar.google.com/citations?user=3ssY-5gAAAAJ&hl=en)
 [ResearchGate](https://www.researchgate.net/profile/Minkyung-Son?ev=hdr_xprf)
 
@@ -24,7 +25,10 @@ Korea Institute of Geoscience and Mineral Resources (KIGAM)
 
 </details>
 <br><br>
+
 ### 🔹 Updates
 - [Jan 2025] **New paper accepted** in *BSSA* (Son and Chaves, in press).
 - [Dec 2024] **Invited presentation** at *AGU Fall Meeting 2024*.
+
+
 
