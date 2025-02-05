@@ -17,6 +17,7 @@ Korea Institute of Geoscience and Mineral Resources (KIGAM)
 
 
 ---
+The sections below are expanded by default. Click on the headings to collapse them.
 <details open>
   <summary><u>2013 Boryeong offshore earthquake sequence</u></summary>
 
