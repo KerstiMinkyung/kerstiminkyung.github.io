@@ -9,4 +9,5 @@ Korea Institute of Geoscience and Mineral Resources (KIGAM)
 - **[Dec 2024] Invited Presentation at AGU Fall Meeting 2024 –** Son and Chaves.
 
 ## 🔹 Research Profiles
-- [Google Scholar](https://scholar.google.com/)
+- [Google Scholar](https://scholar.google.com/](https://scholar.google.com/citations?user=3ssY-5gAAAAJ&hl=en)
+- [ResearchGate](https://www.researchgate.net/profile/Minkyung-Son?ev=hdr_xprf)
