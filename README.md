@@ -17,10 +17,12 @@ Korea Institute of Geoscience and Mineral Resources (KIGAM)
 
 
 ---
+<details open>
+  <summary>2013 Boryeong offshore earthquake sequence</summary>
+  ![Epicenter migration](https://www.researchgate.net/publication/388707483_2013Boryoeng_EpiDDgif)
 
 
-<!--
-<details>
+<details open>
   <summary>Experience & Education</summary>
 
 ### 💼 Experience
@@ -35,7 +37,7 @@ Korea Institute of Geoscience and Mineral Resources (KIGAM)
 - **Exchange Student**, Osaka University, Apr – Aug 2008 
 
 </details>
-<br><br><br> -->
+<br><br><br>
 
 
 
