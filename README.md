@@ -13,7 +13,7 @@ Korea Institute of Geoscience and Mineral Resources (KIGAM)
 <br><br><br><br>
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Education</summary>
 
 - **Ph.D. in Geophysics**, Seoul National University, Aug 2016  
 - **M.S. in Geophysics**, Seoul National University, Feb 2011  
@@ -21,9 +21,9 @@ Korea Institute of Geoscience and Mineral Resources (KIGAM)
 - **Exchange Student**, Osaka University, Apr – Aug 2008  
 
 </details>
-
+<br><br>
 <details>
-  <summary>Click to expand</summary>
+  <summary>Experience</summary>
 
 - **Principal Researcher**, Korea Institute of Geoscience and Mineral Resources (KIGAM), Jan 2025 – Present  
 - **Senior Researcher**, KIGAM, Jan 2017 – Dec 2024 *(including parental leave: May 2017 – Aug 2018, Sep 2021 – Apr 2022)*  
