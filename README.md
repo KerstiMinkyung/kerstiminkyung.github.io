@@ -1,6 +1,5 @@
 ## Minkyung Son | 손민경
 ### Seismologist
-[Google Scholar](https://scholar.google.com/citations?user=3ssY-5gAAAAJ&hl=en)
 Korea Institute of Geoscience and Mineral Resources (KIGAM)  
 
 📧 Email: kersti/kigam/re/kr (replace `/` with `.`)  
