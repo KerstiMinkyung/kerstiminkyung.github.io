@@ -17,7 +17,7 @@ Korea Institute of Geoscience and Mineral Resources (KIGAM)
 
 
 ---
-<details>
+<details open>
   <summary><u>2013 Boryeong offshore earthquake sequence</u></summary>
 
 📍 **Epicenter migration over a two-month period**<br>
