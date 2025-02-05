@@ -7,6 +7,8 @@ Korea Institute of Geoscience and Mineral Resources (KIGAM)
 [Google Scholar](https://scholar.google.com/citations?user=3ssY-5gAAAAJ&hl=en)
 [ResearchGate](https://www.researchgate.net/profile/Minkyung-Son?ev=hdr_xprf)
 
+
+<!--:
 <details>
   <summary>Education</summary>
 
@@ -23,7 +25,7 @@ Korea Institute of Geoscience and Mineral Resources (KIGAM)
 - **Senior Researcher**, KIGAM, Jan 2017 – Dec 2024 *(including parental leave: May 2017 – Aug 2018, Sep 2021 – Apr 2022)*  
 - **Researcher**, KIGAM, Dec 2010 – Dec 2016  
 
-</details>
+</details> -->
 <br><br>
 
 ### 🔹 Updates
