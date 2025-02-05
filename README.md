@@ -26,7 +26,7 @@ Korea Institute of Geoscience and Mineral Resources (KIGAM)
 </details>
 
 
-<details>
+<details open>
   <summary><u>Experience & Education</u></summary>
 <br>
 
