@@ -26,7 +26,7 @@ Korea Institute of Geoscience and Mineral Resources (KIGAM)
 ## 🔹 Experience
 
 <details open>
-<summary></summary>
+  <summary></summary>
 
   - **Principal Researcher**, Korea Institute of Geoscience and Mineral Resources (KIGAM), Jan 2025 – Present  
   - **Senior Researcher**, KIGAM, Jan 2017 – Dec 2024 *(including parental leave: May 2017 – Aug 2018, Sep 2021 – Apr 2022)*  
