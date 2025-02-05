@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Minkyung Son | Seismologist"
+---
+
 # Minkyung Son | 손민경
 ### Principal Researcher, Earthquake Research Center  
 Korea Institute of Geoscience and Mineral Resources (KIGAM)  
