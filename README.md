@@ -17,18 +17,18 @@ Korea Institute of Geoscience and Mineral Resources (KIGAM)
 
 
 ---
-The sections below are expanded by default. Click on the headings to collapse them.
-<details open>
-  <summary><u>2013 Boryeong offshore earthquake sequence</u></summary>
+<br>
+<!--<details open>
+  <summary><u>2013 Boryeong offshore earthquake sequence</u></summary> -->
 
 📍 **Epicenter migration over a two-month period**<br>
   ![Epicenter migration](https://static-content.springer.com/esm/art%3A10.1007%2Fs12303-014-0038-2/MediaObjects/12303_2014_38_MOESM1_ESM.gif)
   
-</details>
+<!--</details>-->
 
 
-<details open>
-  <summary><u>Experience & Education</u></summary>
+<!--<details open>
+  <summary><u>Experience & Education</u></summary>-->
 <br>
 
 💼 **Experience**
@@ -43,7 +43,7 @@ The sections below are expanded by default. Click on the headings to collapse th
 - B.S. in Energy Resources Engineering, Seoul National University, Feb 2009  
 - Exchange Student, Osaka University, Apr – Aug 2008 
 
-</details>
+<!--</details>-->
 <br><br><br>
 
 
