@@ -12,8 +12,6 @@ Korea Institute of Geoscience and Mineral Resources (KIGAM)
 - [Google Scholar](https://scholar.google.com/citations?user=3ssY-5gAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Minkyung-Son?ev=hdr_xprf)
 
-## 🔹 Education
-
 <details>
   <summary>🎓 **Education** (Click to expand)</summary>
 
@@ -25,8 +23,6 @@ Korea Institute of Geoscience and Mineral Resources (KIGAM)
 </details>
 
 ---
-
-## 🔹 Experience
 
 <details>
   <summary>💼 **Professional Experience** (Click to expand)</summary>
