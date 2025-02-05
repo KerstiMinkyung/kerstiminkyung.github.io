@@ -15,6 +15,7 @@ Korea Institute of Geoscience and Mineral Resources (KIGAM)
 [ResearchGate](https://www.researchgate.net/profile/Minkyung-Son?ev=hdr_xprf)
 <br>
 
+<!--
 <details>
   <summary>Experience & Education</summary>
 
@@ -30,7 +31,7 @@ Korea Institute of Geoscience and Mineral Resources (KIGAM)
 - **Exchange Student**, Osaka University, Apr – Aug 2008 
 
 </details>
-<br><br><br>
+<br><br><br> -->
 
 
 
