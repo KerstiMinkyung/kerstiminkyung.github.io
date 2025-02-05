@@ -28,6 +28,7 @@ Korea Institute of Geoscience and Mineral Resources (KIGAM)
 
 <details>
   <summary>Experience & Education</summary>
+<br>
 
 💼 **Experience**
 - Principal Researcher, KIGAM, Jan 2025 – Present  
