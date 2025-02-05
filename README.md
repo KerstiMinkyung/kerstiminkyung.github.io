@@ -6,7 +6,7 @@ Korea Institute of Geoscience and Mineral Resources (KIGAM)
 
 [Google Scholar](https://scholar.google.com/citations?user=3ssY-5gAAAAJ&hl=en)
 [ResearchGate](https://www.researchgate.net/profile/Minkyung-Son?ev=hdr_xprf)
-
+<br>
 
 <details>
   <summary>Education</summary>
@@ -25,7 +25,7 @@ Korea Institute of Geoscience and Mineral Resources (KIGAM)
 - **Researcher**, KIGAM, Dec 2010 – Dec 2016  
 
 </details>
-<br><br><br><br>
+<br><br><br>
 
 ### 🔹 Updates
 - [Jan 2025] **New paper accepted** in *BSSA* (Son and Chaves, in press).
