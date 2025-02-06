@@ -2,7 +2,7 @@
 ### Seismologist
 Korea Institute of Geoscience and Mineral Resources (KIGAM)  
 
-📧 Email: kersti/kigam/re/kr (replace `/` with `.`)  
+📧 Email: kersti[at]kigam[dot]re[dot]kr
 <br><br>
 
 ### 📢 Updates
