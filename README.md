@@ -39,10 +39,8 @@ Occurred during the 2013 Boryeong offshore earthquake swarm (Son et al., 2015)<b
 <br>
 
 💼 **Experience**  
-- Principal Researcher, KIGAM, Jan 2025 – Present  
-- Senior Researcher, KIGAM, Jan 2017 – Dec 2024  
-  *(including parental leave: May 2017 – Aug 2018, Sep 2021 – Apr 2022)*  
-- Researcher, KIGAM, Dec 2010 – Dec 2016  
+- Korea Institute of Geoscience and Mineral Resources (KIGAM), Dec 2010 – Present  
+  *(including marternity & parental leave: May 2017 – Aug 2018, Sep 2021 – Apr 2022)*  
 <br>
 
 🎓 **Education**  
