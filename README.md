@@ -44,6 +44,7 @@ Occurred during the 2013 Boryeong offshore earthquake swarm (Son et al., 2015)<b
   *(including parental leave: May 2017 – Aug 2018, Sep 2021 – Apr 2022)*  
 - Researcher, KIGAM, Dec 2010 – Dec 2016  
 <br>
+
 🎓 **Education**  
 - Ph.D. in Energy System Engineering, Seoul National University, Aug 2016  
   *(Thesis: "Relocation of clustered seismic events on the Korean Peninsula using the double-difference technique and cross-correlation")*  
