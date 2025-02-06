@@ -40,7 +40,7 @@ Occurred during the 2013 Boryeong offshore earthquake swarm (Son et al., 2015)<b
 
 💼 **Experience**  
 - Korea Institute of Geoscience and Mineral Resources (KIGAM), Dec 2010 – Present  
-  *(including maternity & parental leave: May 2017 – Aug 2018, Sep 2021 – Apr 2022)*  
+  *(including maternity & parental leave: May 2017 – Aug 2018 and Sep 2021 – Apr 2022)*  
 <br>
 
 🎓 **Education**  
