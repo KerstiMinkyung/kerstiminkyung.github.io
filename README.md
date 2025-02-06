@@ -49,7 +49,7 @@ Occurred during the 2013 Boryeong offshore earthquake swarm (Son et al., 2015)<b
 - M.S. in Energy System Engineering, Seoul National University, Feb 2011  
   *(Thesis: "Time-domain waveform inversion using filtering techniques")*  
 - B.S. in Energy Resources Engineering, Seoul National University, Feb 2009  
-- Exchange Student, Osaka University, Apr – Aug 2008    
+  *(Exchange Program in Engineering, Osaka University, Apr – Aug 2008, all coursework in Japanese)*  
 
 <!--</details>-->
 <br><br><br>
