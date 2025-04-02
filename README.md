@@ -10,7 +10,7 @@ Korea Institute of Geoscience and Mineral Resources (KIGAM)
 - **[Dec 2024] Gave an invited presentation** at the *AGU Fall Meeting 2024*.
 <br><br><br>
 
-[CV](http://)
+[CV](https://drive.google.com/file/d/1IQnCE6MnFiwdhD7vqg9NG8U9tPDegy-c/view?usp=drivesdk)
 [Google_Scholar](https://scholar.google.com/citations?user=3ssY-5gAAAAJ&hl=en)
 [ResearchGate](https://www.researchgate.net/profile/Minkyung-Son?ev=hdr_xprf)
 <br>
