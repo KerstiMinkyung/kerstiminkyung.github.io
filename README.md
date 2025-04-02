@@ -6,8 +6,8 @@ Korea Institute of Geoscience and Mineral Resources (KIGAM)
 <br><br>
 
 ### 📢 Updates
-- **[Jan 2025] New paper accepted** in *BSSA* (Son and Chaves, in press).
-- **[Dec 2024] Invited presentation** at *AGU Fall Meeting 2024*.
+- **[Jan 2025] New paper now available online** in *BSSA* [(Son and Chaves, 2025)](https://doi.org/10.1785/0120240149)
+- **[Dec 2024] Gave an invited presentation** at the *AGU Fall Meeting 2024*.
 <br><br><br>
 
 [CV](http://)
