@@ -26,7 +26,7 @@ with colors shifting from dark red to yellow.
 
   ![Epicenter migration](https://static-content.springer.com/esm/art%3A10.1007%2Fs12303-014-0038-2/MediaObjects/12303_2014_38_MOESM1_ESM.gif)
 
-Occurred during the 2013 Boryeong offshore earthquake swarm [(Son et al., 2015)](https://link.springer.com/article/10.1007/s12303-014-0038-2)<br>  
+This animation shows epicenter migration during the 2013 Boryeong offshore earthquake swarm [(Son et al., 2015)](https://link.springer.com/article/10.1007/s12303-014-0038-2)<br>  
 <!--</details>-->
 
 
