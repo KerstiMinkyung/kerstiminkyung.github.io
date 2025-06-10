@@ -3496,6 +3496,7 @@
                 "symbol": "circle-open"
             },
             "mode": "markers",
+            "showlegend": false,
             "text": [
                 "M5.4<br>2017/11/15, 05:29:31",
                 "M3.5<br>2017/11/15, 06:09:50",
