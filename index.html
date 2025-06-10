@@ -37,9 +37,14 @@
   </p>
   
 <h3>🌍 Interactive Earthquake Hypocenter Plot</h3>
-<div class="iframe-container">
-  <iframe src="docs/pohang_quake_3d.html"></iframe>
-</div>
+<script src="docs/pohang_quake_plot.json"></script>
+<script>
+  fetch('docs/pohang_quake_plot.json')
+    .then(response => response.json())
+    .then(fig => {
+      Plotly.newPlot('quake-plot', fig.data, fig.layout);
+    });
+</script>
 <p style="margin-top: 0.5rem; color: black;">
   The hypocenter catalog follows the relocated dataset presented in 
   <a href="https://doi.org/10.1029/2020JB020005" target="_blank">
